@@ -3,5 +3,10 @@ Description: A mind-bending thriller about dreams within dreams.
 Year: 2010
 Main character: Dom Cobb
 
+<<<<<<< HEAD
 Serial: Stranger Things
 Description: Supernatural mystery in a small town.
+=======
+Cartoon: Rick and Morty
+Description: Sci-fi cartoon about adventures across the universe.
+>>>>>>> unlikedFilm

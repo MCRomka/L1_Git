@@ -2,3 +2,6 @@ Title: Inception
 Description: A mind-bending thriller about dreams within dreams.
 Year: 2010
 Main character: Dom Cobb
+
+Cartoon: Rick and Morty
+Description: Sci-fi cartoon about adventures across the universe.
